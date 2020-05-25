@@ -1,0 +1,16 @@
+{
+"companyName": "LiteTJ",
+"productName": "Ten Minutes of Existence",
+"productVersion": "1.1",
+"dataUrl": "TMoE WebGL v1.1.data.unityweb",
+"wasmCodeUrl": "TMoE WebGL v1.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "TMoE WebGL v1.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.8f1"
+}
